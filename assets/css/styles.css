@@ -18,4 +18,16 @@ body{
 
 
 }
+/*section id's Styles*/
+#title{
+    background-color: azure;
+}
 
+
+
+/*navbar chenges*/
+
+.bg-light {
+    background-color: rgb(12, 69, 150)!important;
+
+}
