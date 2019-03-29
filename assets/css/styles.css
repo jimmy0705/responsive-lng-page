@@ -130,6 +130,23 @@ button.btn.btn-dark.btn-lg {
 
 /* section benifits ending point */
 
+/*section cta */
+#cta{
+    text-align: center;
+    background-color:#b2b2e2;
+}
+
+
+/* Footer Section */
+#footer{
+    text-align: center;
+    background-color:#b2b2e2;
+}
+
+.social-icon {
+    margin: 20px 10px;
+  }
+
 
 
 /*navbar changes*/
